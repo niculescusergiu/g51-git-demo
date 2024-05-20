@@ -1,0 +1,9 @@
+I've just watched the Scrum tutorial and it seems as if it is a very useful method, 
+redefining the waterflow method that lets you structure up your work and keep track of exactly everything 
+that has been done or that needs doing, stepwise so that a group can see and pick up anything that isn't finished 
+or to identify the most important tasks that are prioritized and could just continue where the other team member 
+finished or maybe pick up a new task from the project backlog. The biggest difference inbetween the waterflow method
+ and SCRUM is that the scrum method is much quicker oftenly consisting of only 1-4 weeks of planning and working, 
+having micro-releases every now and then, while the waterflow method has a long period of maybe 3-6  
+months where you are planning, building and testing for the majority of time and only one major release. 
+SCRUM allows us to work faster and more efficient, meeting deadlines more frequent which doesn't let us fall behind.

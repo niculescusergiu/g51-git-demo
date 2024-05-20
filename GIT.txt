@@ -1,0 +1,80 @@
+Version Control System
+
+- Known as source control or revision control tool
+- To track and manage changes made to a set of files
+- Types of version control systems: Git, Subversion, Mercurius etc.
+
+Easier to figure out what went wrong and who made changes in the files you're working with
+VCS will make a log file where it records changes with an unique ID.
+If changes/mistakes have been made, we can check the logfile and make a rollback to a earlier working version.
+
+Who made the change?
+Why was the change made and when was it made?
+
+
+What is Git?
+
+- Open Source VCS
+- To store source codes in the special storage called Repository
+-To track and view code history
+- To compare and revert changes
+- To make it easier for developers to collaborate
+- GUY clients & Command Prompt
+
+For developers its simple to use the command prompt for a deeper understanding of the Git functionalities
+
+Why Git?
+
+- Distributed VCS
+- Easy collaboration
+- Tracking changes
+- Rollback to previous versions
+- Branching and merging
+- Speed and performance
+
+Git Repository
+
+- Centralized location for all files, directories, & history of projects (projects folders)
+- Primary types of repositories: Local repository & Remote repository
+- To have a Git repository:
+ - Creating a New Repository
+ - Cloning an existing repository
+
+The local repository is represented by Git, meanwhile the remote repository is on Github
+
+How to get started with Git
+
+1. Download and install Git
+2. Configure Git
+ - Open a terminal or cmd
+ - Configure your name and email address using the following commands:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+Basic Git Operations
+
+git init - Initializes a new Git repository in the current directory
+git add  - Adds a specific file or all files and changes to the staging area
+git commit - Records changes to the repository
+git status - Shows the status of the working directory and staging area
+git log - Displays the commit history
+git clone - Creates a local copy of a remote repository on your machine
+git pull - Fetches and merges changes from a remote repository in the current brach
+git push - Pushes local commits to a remote repository on the specified branch
+
+
+What is GitHub?
+
+- Hosting service for Git repositories
+- Hosting platform for collaboration and version control
+- Is a location where all the version control fiels are stored
+- Offers private and public repositories
+- Sign up and host a public code repository for free
+
+Why GitHub?
+
+- Centralizerd Remote Repository Hosting
+- Collaboration and teamwork
+- Version control and history
+-  Visibility and showcase
+
